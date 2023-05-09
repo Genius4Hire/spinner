@@ -1,7 +1,4 @@
-
-
-const animFrames = ["\r|   ", "\r/   ", "\r-   ", "\r\\   "
-];
+const animFrames = ["\r|   ", "\r/   ", "\r-   ", "\r\\   "];
 
 const makeAnimLoop = function(totalTime) {
   // while (do frame of totalTime){
